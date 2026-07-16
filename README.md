@@ -130,6 +130,4 @@ Le système est piloté via trois écrans IHM dédiés, accessibles depuis la pa
 
 `Siemens S7-1200` · `TIA Portal V16` · `Ladder Logic` · `KTP400 Comfort` · `WinCC Runtime Advanced` · `Variateurs de vitesse` · `Automatisme industriel`
 
-## 📄 License
 
-MIT
